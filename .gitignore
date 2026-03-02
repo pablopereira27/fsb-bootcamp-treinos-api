@@ -1,3 +1,7 @@
+# Auto Generated Files
 node_modules
-.env
+dist
 /src/generated/prisma
+
+# Secured Files
+.env
